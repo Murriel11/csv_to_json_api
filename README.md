@@ -15,7 +15,7 @@
 
 - npm
 - PostgresSQL
-- `npm' or `yarn`
+- `npm` or `yarn`
 
 ## Installation
 
