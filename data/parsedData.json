@@ -1,0 +1,574 @@
+[
+  {
+    "name": {
+      "firstName": "Adrian",
+      "lastName": "Benavides"
+    },
+    "age": "54",
+    "address": {
+      "line1": "1775 11th",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Carla",
+      "lastName": "Borgonovo"
+    },
+    "age": "42",
+    "address": {
+      "line1": "82 T.W. Alexander Drive",
+      "city": "Durham",
+      "state": "NC"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Ann",
+      "lastName": "Bowles"
+    },
+    "age": "39",
+    "address": {
+      "line1": "80 T.W. Alexander Drive",
+      "city": "RTP",
+      "state": "NC"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "B",
+      "lastName": "Bradley"
+    },
+    "age": "24",
+    "address": {
+      "line1": "79 T.W. Alexander Drive",
+      "city": "Durham",
+      "state": "NC"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Al",
+      "lastName": "Broumand"
+    },
+    "age": "60",
+    "address": {
+      "line1": "2530 Berryessa Rd. # 524",
+      "city": "San Francisco",
+      "state": "Calif"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "David",
+      "lastName": "Campbell"
+    },
+    "age": "33",
+    "address": {
+      "line1": "2035 Gateway Place",
+      "city": "Walnut Creek",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Dan",
+      "lastName": "Casey"
+    },
+    "age": "26",
+    "address": {
+      "line1": "1776 11th",
+      "city": "SF",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Andy",
+      "lastName": "Com"
+    },
+    "age": "48",
+    "address": {
+      "line1": "602 Van Ness Ave.",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Brenda",
+      "lastName": "Cowan"
+    },
+    "age": "34",
+    "address": {
+      "line1": "4501 Durham Chapel Hill Boulevard",
+      "city": "Chapel Hill",
+      "state": "NC"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Chris",
+      "lastName": "Dailey"
+    },
+    "age": "21",
+    "address": {
+      "line1": "1761 Marin Ave",
+      "city": "Durham",
+      "state": "NC"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Christopher",
+      "lastName": "Damman"
+    },
+    "age": "43",
+    "address": {
+      "line1": "2034 Gateway Place",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Dan",
+      "lastName": "Davis"
+    },
+    "age": "37",
+    "address": {
+      "line1": "602 Van Ness Ave.",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Carol",
+      "lastName": "Diesner"
+    },
+    "age": "49",
+    "address": {
+      "line1": "1762 Marin Ave",
+      "city": "Raleigh",
+      "state": "NC"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Dee",
+      "lastName": "Elson"
+    },
+    "age": "53",
+    "address": {
+      "line1": "1777 11th",
+      "city": "Walnut Creek",
+      "state": "Cali"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Darres",
+      "lastName": "Fischer"
+    },
+    "age": "34",
+    "address": {
+      "line1": "3104 Deerpark Dr,",
+      "city": "Walnut Creek",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Brenna",
+      "lastName": "Fischer"
+    },
+    "age": "23",
+    "address": {
+      "line1": "401 W. Main Street #604",
+      "city": "Raleigh",
+      "state": "NC"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Claire",
+      "lastName": "Friesen"
+    },
+    "age": "42",
+    "address": {
+      "line1": "1259 1/2 11th Ave.",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Darin",
+      "lastName": "Gelber"
+    },
+    "age": "48",
+    "address": {
+      "line1": "2531 Berryessa Rd. # 524",
+      "city": "SF",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Anne",
+      "lastName": "Hall"
+    },
+    "age": "40",
+    "address": {
+      "line1": "2820 Pickett Road",
+      "city": "Durham",
+      "state": "NC"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Ann",
+      "lastName": "Hansen"
+    },
+    "age": "29",
+    "address": {
+      "line1": "1760 Marin Ave",
+      "city": "Raleigh",
+      "state": "NC"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Andre",
+      "lastName": "Kahn"
+    },
+    "age": "57",
+    "address": {
+      "line1": "1259 1/2 11th Ave.",
+      "city": "SF",
+      "state": "cali"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Adam",
+      "lastName": "Kehoe"
+    },
+    "age": "29",
+    "address": {
+      "line1": "1258 1/2 11th Ave.",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Anna",
+      "lastName": "Kuensch"
+    },
+    "age": "38",
+    "address": {
+      "line1": "1330 Hamlin Road",
+      "city": "Chapel Hill",
+      "state": "NC"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Bill",
+      "lastName": "Lee"
+    },
+    "age": "31",
+    "address": {
+      "line1": "1335 Hamlin Road",
+      "city": "RTP",
+      "state": "NC"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "chris",
+      "lastName": "Leontovitch"
+    },
+    "age": "38",
+    "address": {
+      "line1": "1331 Hamlin Road",
+      "city": "Raleigh",
+      "state": "NC"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Daryl",
+      "lastName": "Mcenhill"
+    },
+    "age": "39",
+    "address": {
+      "line1": "202 E. Santa Clara St",
+      "city": "Walnut Creek",
+      "state": "calif"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Chris",
+      "lastName": "Moore"
+    },
+    "age": "58",
+    "address": {
+      "line1": "2531 Berryessa Rd. # 524",
+      "city": "SF",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Blair",
+      "lastName": "Murphy"
+    },
+    "age": "30",
+    "address": {
+      "line1": "1761 Marin Ave",
+      "city": "RTP",
+      "state": "NC"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Dervla",
+      "lastName": "Peterson"
+    },
+    "age": "50",
+    "address": {
+      "line1": "603 Van Ness Ave.",
+      "city": "Walnut Creek",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Alison",
+      "lastName": "Propeller"
+    },
+    "age": "50",
+    "address": {
+      "line1": "2828 Aiello Dr #A",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Alan",
+      "lastName": "Prussia"
+    },
+    "age": "44",
+    "address": {
+      "line1": "200 E. Santa Clara St",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Blair",
+      "lastName": "Robinson"
+    },
+    "age": "52",
+    "address": {
+      "line1": "1331 Hamlin Road",
+      "city": "RTP",
+      "state": "NC"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Alix",
+      "lastName": "Rowan"
+    },
+    "age": "53",
+    "address": {
+      "line1": "2033 Gateway Place",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Ayla",
+      "lastName": "Savelli"
+    },
+    "age": "27",
+    "address": {
+      "line1": "4500 Durham Chapel Hill Boulevard",
+      "city": "RTP",
+      "state": "NC"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Brenda",
+      "lastName": "See"
+    },
+    "age": "35",
+    "address": {
+      "line1": "80 T.W. Alexander Drive",
+      "city": "Durham",
+      "state": "NC"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Christina",
+      "lastName": "Sharron"
+    },
+    "age": "52",
+    "address": {
+      "line1": "2829 Aiello Dr #A",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Dave",
+      "lastName": "Simonds"
+    },
+    "age": "21",
+    "address": {
+      "line1": "2830 Aiello Dr #A",
+      "city": "Walnut Creek",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Brandi",
+      "lastName": "Thomas"
+    },
+    "age": "48",
+    "address": {
+      "line1": "4031 East Cornwallis Road",
+      "city": "Raleigh",
+      "state": "NC"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Chris",
+      "lastName": "Thomas"
+    },
+    "age": "55",
+    "address": {
+      "line1": "201 E. Santa Clara St",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Debi",
+      "lastName": "Tonra"
+    },
+    "age": "48",
+    "address": {
+      "line1": "1260 1/2 11th Ave.",
+      "city": "Walnut Creek",
+      "state": "Calif"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Bill",
+      "lastName": "Westgard"
+    },
+    "age": "32",
+    "address": {
+      "line1": "81 T.W. Alexander Drive",
+      "city": "RTP",
+      "state": "NC"
+    },
+    "gender": "Male"
+  },
+  {
+    "name": {
+      "firstName": "Annie",
+      "lastName": "Wishnie"
+    },
+    "age": "48",
+    "address": {
+      "line1": "4030 East Cornwallis Road",
+      "city": "Raleigh",
+      "state": "NC"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Cat",
+      "lastName": "Wong"
+    },
+    "age": "56",
+    "address": {
+      "line1": "81 T.W. Alexander Drive",
+      "city": "Chapel Hill",
+      "state": "NC"
+    },
+    "gender": "Female"
+  },
+  {
+    "name": {
+      "firstName": "Allen",
+      "lastName": "Zimmers"
+    },
+    "age": "38",
+    "address": {
+      "line1": "735 Crocker Ave",
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "gender": "Male"
+  }
+]
